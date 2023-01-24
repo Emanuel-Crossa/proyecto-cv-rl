@@ -2069,7 +2069,7 @@ footer .text-2 {
 
 }
 
-@media (max-width: 320px) {
+@media (max-width: 420px) {
 
 
 
@@ -2092,9 +2092,9 @@ footer .text-2 {
 
         width: 100%;
         min-height: revert;
-        height: 185vw;
+        height: 165vw;
         max-height: 700px;
-        max-width: 280px;
+        max-width: 290px;
         margin-top: 0px;
         border-radius: 40px;
 
